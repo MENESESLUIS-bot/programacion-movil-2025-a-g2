@@ -1,3 +1,0 @@
-link trello: https://trello.com/invite/b/67c6fdbeb35812034b00ccac/ATTI97f51822a760b24f259ea648d1f402125BBF1E5F/taller-martes-04-03-2025
-link figma: https://www.figma.com/design/rMkxi4wYZZ2ersCQvpvaiW/biblioteca?node-id=0-1&t=uqsCkECYgGAhuoDM-1
-link githup: https://github.com/MENESESLUIS-bot/programacion-movil-2025-a-g2/tree/feature/activity
