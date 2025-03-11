@@ -1,2 +1,0 @@
-link de figma parcial :https://www.figma.com/design/N5GV0pHNReRgkFBJLfGFCa/Untitled?node-id=1003-30&t=otTMg8ECXZolP4QV-1
-link de githup:https://github.com/MENESESLUIS-bot/programacion-movil-2025-a-g2/tree/feature/activity
