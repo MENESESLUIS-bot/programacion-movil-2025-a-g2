@@ -39,7 +39,7 @@ En el sexto módulo, exploramos la importancia del trabajo colaborativo en proye
 ### Modulo 7 Evaluacion Final
 #### Your Future in UX Design: The Job Landscape
 
-En el séptimo módulo, exploramos el panorama laboral del diseño UX y cómo prepararnos para ingresar a este campo. Aprendimos sobre las habilidades y herramientas más demandadas, las áreas de especialización dentro del UX y la mejor manera de estructurar un portafolio profesional. También analizamos estrategias para la búsqueda de empleo, la importancia del networking y cómo prepararse para entrevistas. Finalmente, examinamos un caso de estudio que demuestra cómo presentar proyectos de UX de forma efectiva para destacar en el mercado laboral.
+En el módulo siete, exploramos el panorama laboral en el diseño UX y cómo prepararnos para ingresar a este campo. Aprendimos sobre las habilidades y herramientas más demandadas, las diferentes áreas en las que un diseñador UX puede especializarse y cómo estructurar un portafolio profesional. También analizamos estrategias para la búsqueda de empleo, la importancia del networking y la preparación para entrevistas. Finalmente, revisamos un caso de estudio que muestra cómo presentar proyectos de UX de manera efectiva para destacarse en el mercado laboral.
 
 ![alt text](C:\Users\user\Desktop\git%20Hup\img\Modulo7.png.jpeg)
 
