@@ -6,4 +6,7 @@ En el tercer módulo, exploramos cómo las user stories permiten capturar las ne
 
 
 
-![alt text](C:\Users\user\Desktop\git%20Hup\img\Modulo3.png.jpeg)
+![alt text](../img/Modulo3.png.jpeg)
+
+## Certificado
+![alt text](../img/cerificado3.jpeg)
