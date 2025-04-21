@@ -5,6 +5,6 @@ Compatibilidad entre dispositivos: También vimos cómo los navegadores interpre
 
 Mejoras de HTML5: Una de las mejoras más importantes de HTML5 son las nuevas etiquetas semánticas que permiten una mejor organización del contenido. Además, JavaScript es crucial para la interacción con el usuario, como la creación de formularios dinámicos o la actualización de contenido sin necesidad de recargar la página.
 
-![certificado](02-fundamentals-of-web-development\img\02-module.png)
+![certificado](02-fundamentals-of-web-development/img)
 
 
