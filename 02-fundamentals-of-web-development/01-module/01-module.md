@@ -3,6 +3,8 @@ En este primer módulo aprendí los fundamentos del desarrollo web. Vimos cómo 
 
 También entendí la diferencia entre front-end y back-end. El front-end es lo visual, lo que ve y con lo que interactúa el usuario, usando tecnologías como HTML, CSS y JavaScript. El back-end es lo que está detrás: la lógica, la conexión con bases de datos y la seguridad, usando lenguajes como Java o Python.
 
-Aprendí sobre los procesos del lado del cliente (client-side), que ocurren en el navegador del usuario, y del lado del servidor (server-side), donde se hacen tareas más pesadas. Además, vimos cómo los servicios en la nube ayudan a alojar sitios, distribuir cargas y escalar proyectos fácilmente sin depender de un solo servidor.
+Aprendí sobre los procesos del lado del cliente (client-side), que ocurren en el navegador del usuario, y del lado del servidor (server-side), donde se hacen tareas más pesadas. Además, vimos cómo los servicios en la nube ayudan a alojar sitios, distribuir cargas y escalar proyectos fácilmente sin depender de un solo servidor.     
+ 
 
-![certificado](C:\Users\luish\OneDrive\Escritorio\programacion-movil-2025-a-g2\02-fundamentals-of-web-development\img\image.png)
+
+![certificado](02-fundamentals-of-web-development\img\image.png)
