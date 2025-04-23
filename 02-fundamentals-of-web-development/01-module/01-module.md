@@ -6,5 +6,5 @@ También entendí la diferencia entre front-end y back-end. El front-end es lo v
 Aprendí sobre los procesos del lado del cliente (client-side), que ocurren en el navegador del usuario, y del lado del servidor (server-side), donde se hacen tareas más pesadas. Además, vimos cómo los servicios en la nube ayudan a alojar sitios, distribuir cargas y escalar proyectos fácilmente sin depender de un solo servidor.     
  
 
+![alt text](image-1.png)
 
-![certificado](02-fundamentals-of-web-development\img\image.png)
